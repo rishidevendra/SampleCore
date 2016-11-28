@@ -1,0 +1,170 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose readDependencies loading dependencies from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\package.json
+5 warn package.json angular-quickstart@1.0.0 No description
+6 warn package.json angular-quickstart@1.0.0 No repository field.
+7 warn package.json angular-quickstart@1.0.0 No README data
+8 warn package.json angular-quickstart@1.0.0 No license field.
+9 verbose install where, deps [ 'c:\\users\\devendrar\\documents\\visual studio 2015\\Projects\\SampleCore\\src\\SampleCore',
+9 verbose install   [ '@angular/common',
+9 verbose install     '@angular/compiler',
+9 verbose install     '@angular/core',
+9 verbose install     '@angular/forms',
+9 verbose install     '@angular/http',
+9 verbose install     '@angular/platform-browser',
+9 verbose install     '@angular/platform-browser-dynamic',
+9 verbose install     '@angular/router',
+9 verbose install     '@angular/upgrade',
+9 verbose install     'angular-in-memory-web-api',
+9 verbose install     'bootstrap',
+9 verbose install     'core-js',
+9 verbose install     'reflect-metadata',
+9 verbose install     'rxjs',
+9 verbose install     'systemjs',
+9 verbose install     'zone.js',
+9 verbose install     'concurrently',
+9 verbose install     'lite-server',
+9 verbose install     'gulp',
+9 verbose install     'typescript',
+9 verbose install     'typings' ] ]
+10 verbose install where, peers [ 'c:\\users\\devendrar\\documents\\visual studio 2015\\Projects\\SampleCore\\src\\SampleCore',
+10 verbose install   [] ]
+11 verbose installManyTop reading for lifecycle c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\package.json
+12 info preinstall angular-quickstart@1.0.0
+13 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\angular-in-memory-web-api\package.json
+14 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\bootstrap\package.json
+15 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\concurrently\package.json
+16 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\core-js\package.json
+17 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\gulp\package.json
+18 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\lite-server\package.json
+19 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\reflect-metadata\package.json
+20 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\rxjs\package.json
+21 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\systemjs\package.json
+22 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\typescript\package.json
+23 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\typings\package.json
+24 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\zone.js\package.json
+25 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\common\package.json
+26 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\compiler\package.json
+27 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\core\package.json
+28 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\forms\package.json
+29 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\http\package.json
+30 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\platform-browser\package.json
+31 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\platform-browser-dynamic\package.json
+32 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\router\package.json
+33 verbose installManyTop reading scoped package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\upgrade\package.json
+34 info package.json angular-in-memory-web-api@0.1.5 No license field.
+35 verbose readDependencies loading dependencies from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\package.json
+36 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\angular-in-memory-web-api\package.json
+37 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\bootstrap\package.json
+38 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\concurrently\package.json
+39 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\core-js\package.json
+40 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\gulp\package.json
+41 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\lite-server\package.json
+42 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\reflect-metadata\package.json
+43 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\rxjs\package.json
+44 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\systemjs\package.json
+45 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\typescript\package.json
+46 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\typings\package.json
+47 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\zone.js\package.json
+48 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\concurrent\package.json
+49 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\concurrent.cmd\package.json
+50 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\concurrently\package.json
+51 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\concurrently.cmd\package.json
+52 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\gulp\package.json
+53 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\gulp.cmd\package.json
+54 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\lite-server\package.json
+55 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\lite-server.cmd\package.json
+56 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\tsc\package.json
+57 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\tsc.cmd\package.json
+58 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\tsserver\package.json
+59 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\tsserver.cmd\package.json
+60 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\typings\package.json
+61 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\.bin\typings.cmd\package.json
+62 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\common\package.json
+63 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\compiler\package.json
+64 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\core\package.json
+65 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\forms\package.json
+66 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\http\package.json
+67 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\platform-browser\package.json
+68 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\platform-browser-dynamic\package.json
+69 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\router\package.json
+70 verbose targetResolver reading package data from c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\node_modules\@angular\upgrade\package.json
+71 verbose already installed skipping rxjs@5.0.0-beta.12 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+72 verbose already installed skipping systemjs@0.19.39 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+73 verbose already installed skipping zone.js@0.6.25 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+74 verbose already installed skipping concurrently@3.0.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+75 verbose already installed skipping lite-server@2.2.2 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+76 verbose already installed skipping gulp@3.9.1 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+77 verbose already installed skipping typescript@2.0.6 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+78 verbose already installed skipping typings@1.4.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+79 verbose already installed skipping @angular/common@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+80 verbose already installed skipping @angular/compiler@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+81 verbose already installed skipping @angular/core@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+82 verbose already installed skipping @angular/forms@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+83 verbose already installed skipping @angular/http@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+84 verbose already installed skipping @angular/platform-browser@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+85 verbose already installed skipping @angular/platform-browser-dynamic@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+86 verbose already installed skipping @angular/router@~3.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+87 verbose already installed skipping @angular/upgrade@~2.1.0 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+88 verbose already installed skipping angular-in-memory-web-api@0.1.5 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+89 verbose already installed skipping bootstrap@3.3.7 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+90 verbose already installed skipping core-js@2.4.1 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+91 verbose already installed skipping reflect-metadata@0.1.8 c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+92 silly install resolved []
+93 info build c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+94 info linkStuff angular-quickstart@1.0.0
+95 silly linkStuff angular-quickstart@1.0.0 has c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src as its parent node_modules
+96 verbose linkBins angular-quickstart@1.0.0
+97 verbose linkMans angular-quickstart@1.0.0
+98 verbose rebuildBundles angular-quickstart@1.0.0
+99 verbose rebuildBundles [ '.bin',
+99 verbose rebuildBundles   '@angular',
+99 verbose rebuildBundles   'angular-in-memory-web-api',
+99 verbose rebuildBundles   'bootstrap',
+99 verbose rebuildBundles   'concurrently',
+99 verbose rebuildBundles   'core-js',
+99 verbose rebuildBundles   'gulp',
+99 verbose rebuildBundles   'lite-server',
+99 verbose rebuildBundles   'reflect-metadata',
+99 verbose rebuildBundles   'rxjs',
+99 verbose rebuildBundles   'systemjs',
+99 verbose rebuildBundles   'typescript',
+99 verbose rebuildBundles   'typings',
+99 verbose rebuildBundles   'zone.js' ]
+100 info install angular-quickstart@1.0.0
+101 info postinstall angular-quickstart@1.0.0
+102 verbose unsafe-perm in lifecycle true
+103 info prepublish angular-quickstart@1.0.0
+104 verbose validateInstall loading c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore\package.json for validation
+105 verbose stack Error: The package @angular/core@2.1.2 does not satisfy its siblings' peerDependencies requirements!
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+105 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+105 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+105 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+105 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+106 verbose cwd c:\users\devendrar\documents\visual studio 2015\Projects\SampleCore\src\SampleCore
+107 error Windows_NT 10.0.10586
+108 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+109 error node v4.5.0
+110 error npm  v2.15.9
+111 error code EPEERINVALID
+112 error peerinvalid The package @angular/core@2.1.2 does not satisfy its siblings' peerDependencies requirements!
+112 error peerinvalid Peer @angular/common@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/compiler@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/forms@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/http@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/platform-browser@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/platform-browser-dynamic@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/router@3.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer @angular/upgrade@2.1.2 wants @angular/core@2.1.2
+112 error peerinvalid Peer angular-in-memory-web-api@0.1.5 wants @angular/core@~2.0.1
+113 verbose exit [ 1, true ]
